@@ -9,4 +9,4 @@ Project on C that aims to make an easy VPN which can be staticly linked in 1 bin
 - [ ] vpnproto:
     - [ ] (partially) server
     - [ ] (partially) client 
-    
+    - [ ] encryption protocol
